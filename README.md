@@ -37,6 +37,10 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshk627) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@howtoautomateseries) 
 
+<p dir="auto">
+<a href="https://www.youtube.com/watch?v=rpLk4fEPyGY" rel="nofollow"><img src="https://camo.githubusercontent.com/b7771cf45340cb0d0a7ceb008fafa8ba217e98d2cb5ae1d361a39f9e5f9ca5ac/68747470733a2f2f797463617264732e64656d6f6c61622e636f6d2f3f69643d647066724e715536707941267469746c653d546f702b352b526561736f6e732b746f2b6c6561726e2b506c61797772696768742b2532336c6574636f64652b253233706c61797772696768742b2b25323373656c656e69756d266c616e673d656e2674696d657374616d703d31363937313335313437266261636b67726f756e645f636f6c6f723d253233306431313137267469746c655f636f6c6f723d2532336666666666662673746174735f636f6c6f723d253233646564656465266d61785f7469746c655f6c696e65733d312677696474683d32353026626f726465725f7261646975733d35" alt="Top 5 Reasons to learn Playwright #letcode #playwright  #selenium" title="Top 5 Reasons to learn Playwright #letcode #playwright  #selenium" data-canonical-src="https://ytcards.demolab.com/?id=dpfrNqU6pyA&amp;title=Top+5+Reasons+to+learn+Playwright+%23letcode+%23playwright++%23selenium&amp;lang=en&amp;timestamp=1697135147&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=1&amp;width=250&amp;border_radius=5" style="max-width: 100%;"></a>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ganeshk627&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ganeshk627&theme=dark&hide_border=true)<br/>
