@@ -1,5 +1,5 @@
 # ⚡️ About Me:
-Automation Tester <br>3 Rules to be mastered:<br>    1. Practice<br>    2. Practice<br>    3. Practice<br>
+Automation Tester <br>✌️ 3 Rules to be mastered:<br>    1. Practice<br>    2. Practice<br>    3. Practice<br>
 
 
 [![](https://visitcount.itsvg.in/api?id=ganeshk627&icon=8&color=8)](https://visitcount.itsvg.in)
