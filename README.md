@@ -1,4 +1,4 @@
-# ⚡️⭐️ About Me:
+# ⚡️ About Me:
 Automation Tester <br>3 Rules to be mastered:<br>    1. Practice<br>    2. Practice<br>    3. Practice<br>
 
 
