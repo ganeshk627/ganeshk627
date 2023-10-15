@@ -37,9 +37,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshk627) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@howtoautomateseries) 
 
-<p dir="auto">
-<a href="https://www.youtube.com/watch?v=rpLk4fEPyGY" rel="nofollow"><img src="https://i.ytimg.com/vi/rpLk4fEPyGY/hqdefault.jpg?sqp=-oaymwEpCNACELwBSFryq4qpAxsIARUAAIhCGAHYAQHiAQwIGhACGAYgATgBQAE=&rs=AOn4CLAzwRP55DwvGjnCu69oUdcOnQtEpw" alt="Playwright Runner Vs Playwright Cucumber - Execution Speed Test⚡️" title="Playwright Runner Vs Playwright Cucumber - Execution Speed Test⚡️" data-canonical-src="https://i.ytimg.com/vi/rpLk4fEPyGY/hqdefault.jpg?sqp=-oaymwEpCNACELwBSFryq4qpAxsIARUAAIhCGAHYAQHiAQwIGhACGAYgATgBQAE=&rs=AOn4CLAzwRP55DwvGjnCu69oUdcOnQtEpw&lang=en&amp;timestamp=1697135147&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=1&amp;width=250&amp;border_radius=5" style="max-width: 100%;"></a>
-</p>
+
+[![Top 5 Reasons to learn Playwright #letcode #playwright  #selenium](https://i.ytimg.com/vi/rpLk4fEPyGY/hqdefault.jpg?sqp=-oaymwEpCNACELwBSFryq4qpAxsIARUAAIhCGAHYAQHiAQwIGhACGAYgATgBQAE=&rs=AOn4CLAzwRP55DwvGjnCu69oUdcOnQtEpw&lang=en&timestamp=1697135147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Top 5 Reasons to learn Playwright #letcode #playwright  #selenium")](https://www.youtube.com/watch?v=rpLk4fEPyGY)
+
+
+<!--  <p dir="auto"> <a href="https://www.youtube.com/watch?v=rpLk4fEPyGY" rel="nofollow"><img src="https://i.ytimg.com/vi/rpLk4fEPyGY/hqdefault.jpg?sqp=-oaymwEpCNACELwBSFryq4qpAxsIARUAAIhCGAHYAQHiAQwIGhACGAYgATgBQAE=&rs=AOn4CLAzwRP55DwvGjnCu69oUdcOnQtEpw" alt="Playwright Runner Vs Playwright Cucumber - Execution Speed Test⚡️" title="Playwright Runner Vs Playwright Cucumber - Execution Speed Test⚡️" data-canonical-src="https://i.ytimg.com/vi/rpLk4fEPyGY/hqdefault.jpg?sqp=-oaymwEpCNACELwBSFryq4qpAxsIARUAAIhCGAHYAQHiAQwIGhACGAYgATgBQAE=&rs=AOn4CLAzwRP55DwvGjnCu69oUdcOnQtEpw&lang=en&amp;timestamp=1697135147&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;max_title_lines=1&amp;width=250&amp;border_radius=5" style="max-width: 100%;"></a></p> -->
 
 
 # 📊 GitHub Stats:
